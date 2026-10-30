@@ -1,0 +1,16 @@
+{
+  "name": "genpark-agentic-commerce-recurring-billing-proration-midcycle-amendment-skill",
+  "version": "1.0.0",
+  "title": "SaaS Recurring Billing Mid-Cycle Proration & Upgrade Amendment Skill",
+  "category": "Agentic Commerce (Subscription Billing & FinTech)",
+  "description": "Calculates exact second-level or day-level subscription upgrade/downgrade prorations, unused credit carryforwards, and immediate net invoices under ASC 606 revenue rules.",
+  "author": {
+    "name": "GenPark Ecosystem",
+    "url": "https://www.genpark.ai",
+    "linkedin": "https://www.linkedin.com/company/92955550"
+  },
+  "mcp_tools": [
+    "calculate_midcycle_proration_amendment"
+  ],
+  "dependencies": []
+}
